@@ -1,6 +1,9 @@
 package tester;
 
 public class test {
-	private void testingmergeconflict(){};
+	private void testingmergeconflict(){
+		System.out.println("test1");
+		
+	};
 	
 }
